@@ -1,6 +1,6 @@
 # Hackintosh-Acer-VX5-591G
 
-![Prewiev]()
+![Prewiev](https://github.com/CristianRoca94/Hackintosh-Acer-VX591G/blob/main/EFI/Screen%20Shot%202022-01-23%20at%2015.28.22.png)
 
 
 Specs:
